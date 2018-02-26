@@ -10,7 +10,8 @@ class Solution
         for(int t = 0; t < n; t++) {
             int a = sc.nextInt();
             int b = sc.nextInt();
-            System.out.println(a+b);
+            int c = sc.nextInt();
+            System.out.println(a+b+c);
         }
     }
 }
